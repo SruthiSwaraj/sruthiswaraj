@@ -6,7 +6,7 @@
 <br>
   I'm Sruthi Swaraj <br>
  
-<img width="15%" alt="TB3" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif>
+<img width="15%" alt="TB3" src="https://github.com/SruthiSwaraj/sruthiswaraj/blob/main/data_analyst.gif">
   
 </h1>
 <h3 align="center"> A Passionate Data Analyst </h3>
